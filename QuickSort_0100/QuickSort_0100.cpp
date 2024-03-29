@@ -25,4 +25,6 @@ void input() {
 	cout << "\n------------------" << endl;
 	cout << "\Enter Array Element" << endl;
 	cout << "\n------------------" << endl;
+
+	for (int i = 0; i < n; i++)
 }
